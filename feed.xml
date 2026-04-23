@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>A place to rest and restart.</title>
-    <link href="https://Nicole-030/my-blog.git/feed.xml" rel="self" />
-    <link href="https://Nicole-030/my-blog.git" />
+    <link href="https://Nicole-030.github.io/my-blog/feed.xml" rel="self" />
+    <link href="https://Nicole-030.github.io/my-blog" />
     <updated>2026-04-23T16:12:19+08:00</updated>
     <author>
         <name>晴子OwO</name>
     </author>
-    <id>https://Nicole-030/my-blog.git</id>
+    <id>https://Nicole-030.github.io/my-blog</id>
 
     <entry>
         <title>貓咪的腦袋裡有宇宙嗎?</title>
         <author>
             <name>晴子OwO</name>
         </author>
-        <link href="https://Nicole-030/my-blog.git/mao-mi-de-nao-dai-li-you-yu-zhou-ma.html"/>
-        <id>https://Nicole-030/my-blog.git/mao-mi-de-nao-dai-li-you-yu-zhou-ma.html</id>
+        <link href="https://Nicole-030.github.io/my-blog/mao-mi-de-nao-dai-li-you-yu-zhou-ma.html"/>
+        <id>https://Nicole-030.github.io/my-blog/mao-mi-de-nao-dai-li-you-yu-zhou-ma.html</id>
 
         <updated>2026-04-23T15:47:14+08:00</updated>
             <summary type="html">
