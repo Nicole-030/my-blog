@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://Nicole-030.github.io/my-blog/sitemap.xml
